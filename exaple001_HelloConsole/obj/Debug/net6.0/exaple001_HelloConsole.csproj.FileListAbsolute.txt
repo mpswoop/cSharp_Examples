@@ -1,0 +1,15 @@
+/home/mp/Eigene Dateien/Studium/git_education/c#/lesson1/examples/exaple001_HelloConsole/bin/Debug/net6.0/exaple001_HelloConsole
+/home/mp/Eigene Dateien/Studium/git_education/c#/lesson1/examples/exaple001_HelloConsole/bin/Debug/net6.0/exaple001_HelloConsole.deps.json
+/home/mp/Eigene Dateien/Studium/git_education/c#/lesson1/examples/exaple001_HelloConsole/bin/Debug/net6.0/exaple001_HelloConsole.runtimeconfig.json
+/home/mp/Eigene Dateien/Studium/git_education/c#/lesson1/examples/exaple001_HelloConsole/bin/Debug/net6.0/exaple001_HelloConsole.dll
+/home/mp/Eigene Dateien/Studium/git_education/c#/lesson1/examples/exaple001_HelloConsole/bin/Debug/net6.0/ref/exaple001_HelloConsole.dll
+/home/mp/Eigene Dateien/Studium/git_education/c#/lesson1/examples/exaple001_HelloConsole/bin/Debug/net6.0/exaple001_HelloConsole.pdb
+/home/mp/Eigene Dateien/Studium/git_education/c#/lesson1/examples/exaple001_HelloConsole/obj/Debug/net6.0/exaple001_HelloConsole.csproj.AssemblyReference.cache
+/home/mp/Eigene Dateien/Studium/git_education/c#/lesson1/examples/exaple001_HelloConsole/obj/Debug/net6.0/exaple001_HelloConsole.GeneratedMSBuildEditorConfig.editorconfig
+/home/mp/Eigene Dateien/Studium/git_education/c#/lesson1/examples/exaple001_HelloConsole/obj/Debug/net6.0/exaple001_HelloConsole.AssemblyInfoInputs.cache
+/home/mp/Eigene Dateien/Studium/git_education/c#/lesson1/examples/exaple001_HelloConsole/obj/Debug/net6.0/exaple001_HelloConsole.AssemblyInfo.cs
+/home/mp/Eigene Dateien/Studium/git_education/c#/lesson1/examples/exaple001_HelloConsole/obj/Debug/net6.0/exaple001_HelloConsole.csproj.CoreCompileInputs.cache
+/home/mp/Eigene Dateien/Studium/git_education/c#/lesson1/examples/exaple001_HelloConsole/obj/Debug/net6.0/exaple001_HelloConsole.dll
+/home/mp/Eigene Dateien/Studium/git_education/c#/lesson1/examples/exaple001_HelloConsole/obj/Debug/net6.0/ref/exaple001_HelloConsole.dll
+/home/mp/Eigene Dateien/Studium/git_education/c#/lesson1/examples/exaple001_HelloConsole/obj/Debug/net6.0/exaple001_HelloConsole.pdb
+/home/mp/Eigene Dateien/Studium/git_education/c#/lesson1/examples/exaple001_HelloConsole/obj/Debug/net6.0/exaple001_HelloConsole.genruntimeconfig.cache
