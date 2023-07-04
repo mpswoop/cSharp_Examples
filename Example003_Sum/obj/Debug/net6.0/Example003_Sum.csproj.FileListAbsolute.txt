@@ -1,0 +1,15 @@
+/home/mp/Eigene Dateien/Studium/git_education/c#/lesson1/examples/Example003_Sum/bin/Debug/net6.0/Example003_Sum
+/home/mp/Eigene Dateien/Studium/git_education/c#/lesson1/examples/Example003_Sum/bin/Debug/net6.0/Example003_Sum.deps.json
+/home/mp/Eigene Dateien/Studium/git_education/c#/lesson1/examples/Example003_Sum/bin/Debug/net6.0/Example003_Sum.runtimeconfig.json
+/home/mp/Eigene Dateien/Studium/git_education/c#/lesson1/examples/Example003_Sum/bin/Debug/net6.0/Example003_Sum.dll
+/home/mp/Eigene Dateien/Studium/git_education/c#/lesson1/examples/Example003_Sum/bin/Debug/net6.0/ref/Example003_Sum.dll
+/home/mp/Eigene Dateien/Studium/git_education/c#/lesson1/examples/Example003_Sum/bin/Debug/net6.0/Example003_Sum.pdb
+/home/mp/Eigene Dateien/Studium/git_education/c#/lesson1/examples/Example003_Sum/obj/Debug/net6.0/Example003_Sum.csproj.AssemblyReference.cache
+/home/mp/Eigene Dateien/Studium/git_education/c#/lesson1/examples/Example003_Sum/obj/Debug/net6.0/Example003_Sum.GeneratedMSBuildEditorConfig.editorconfig
+/home/mp/Eigene Dateien/Studium/git_education/c#/lesson1/examples/Example003_Sum/obj/Debug/net6.0/Example003_Sum.AssemblyInfoInputs.cache
+/home/mp/Eigene Dateien/Studium/git_education/c#/lesson1/examples/Example003_Sum/obj/Debug/net6.0/Example003_Sum.AssemblyInfo.cs
+/home/mp/Eigene Dateien/Studium/git_education/c#/lesson1/examples/Example003_Sum/obj/Debug/net6.0/Example003_Sum.csproj.CoreCompileInputs.cache
+/home/mp/Eigene Dateien/Studium/git_education/c#/lesson1/examples/Example003_Sum/obj/Debug/net6.0/Example003_Sum.dll
+/home/mp/Eigene Dateien/Studium/git_education/c#/lesson1/examples/Example003_Sum/obj/Debug/net6.0/ref/Example003_Sum.dll
+/home/mp/Eigene Dateien/Studium/git_education/c#/lesson1/examples/Example003_Sum/obj/Debug/net6.0/Example003_Sum.pdb
+/home/mp/Eigene Dateien/Studium/git_education/c#/lesson1/examples/Example003_Sum/obj/Debug/net6.0/Example003_Sum.genruntimeconfig.cache
