@@ -1,0 +1,15 @@
+/home/mp/Eigene Dateien/Studium/git_education/c#/lesson1/examples/Example005_If_Else/bin/Debug/net6.0/Example005_If_Else
+/home/mp/Eigene Dateien/Studium/git_education/c#/lesson1/examples/Example005_If_Else/bin/Debug/net6.0/Example005_If_Else.deps.json
+/home/mp/Eigene Dateien/Studium/git_education/c#/lesson1/examples/Example005_If_Else/bin/Debug/net6.0/Example005_If_Else.runtimeconfig.json
+/home/mp/Eigene Dateien/Studium/git_education/c#/lesson1/examples/Example005_If_Else/bin/Debug/net6.0/Example005_If_Else.dll
+/home/mp/Eigene Dateien/Studium/git_education/c#/lesson1/examples/Example005_If_Else/bin/Debug/net6.0/ref/Example005_If_Else.dll
+/home/mp/Eigene Dateien/Studium/git_education/c#/lesson1/examples/Example005_If_Else/bin/Debug/net6.0/Example005_If_Else.pdb
+/home/mp/Eigene Dateien/Studium/git_education/c#/lesson1/examples/Example005_If_Else/obj/Debug/net6.0/Example005_If_Else.csproj.AssemblyReference.cache
+/home/mp/Eigene Dateien/Studium/git_education/c#/lesson1/examples/Example005_If_Else/obj/Debug/net6.0/Example005_If_Else.GeneratedMSBuildEditorConfig.editorconfig
+/home/mp/Eigene Dateien/Studium/git_education/c#/lesson1/examples/Example005_If_Else/obj/Debug/net6.0/Example005_If_Else.AssemblyInfoInputs.cache
+/home/mp/Eigene Dateien/Studium/git_education/c#/lesson1/examples/Example005_If_Else/obj/Debug/net6.0/Example005_If_Else.AssemblyInfo.cs
+/home/mp/Eigene Dateien/Studium/git_education/c#/lesson1/examples/Example005_If_Else/obj/Debug/net6.0/Example005_If_Else.csproj.CoreCompileInputs.cache
+/home/mp/Eigene Dateien/Studium/git_education/c#/lesson1/examples/Example005_If_Else/obj/Debug/net6.0/Example005_If_Else.dll
+/home/mp/Eigene Dateien/Studium/git_education/c#/lesson1/examples/Example005_If_Else/obj/Debug/net6.0/ref/Example005_If_Else.dll
+/home/mp/Eigene Dateien/Studium/git_education/c#/lesson1/examples/Example005_If_Else/obj/Debug/net6.0/Example005_If_Else.pdb
+/home/mp/Eigene Dateien/Studium/git_education/c#/lesson1/examples/Example005_If_Else/obj/Debug/net6.0/Example005_If_Else.genruntimeconfig.cache
